@@ -34,7 +34,7 @@ All recipes live in `js/recipes.js`. To add one, copy an existing recipe, give i
 | `js/recipes.js` | Every recipe on the site |
 | `images/` | Recipe photos |
 | `CNAME`, `robots.txt`, `sitemap.xml` | The web address and search-engine setup |
-| `.docx` and `.msg` files | Original copies of recipes that were added to the site |
+| `recipe-docs/` | Original copies of recipes that were added to the site (Word and Outlook files) |
 
 ## Hosting
 
